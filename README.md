@@ -1,6 +1,3 @@
-Certainly! Here's a `README.md` file for the Stickerator project:
-
-```markdown
 # Stickerator
 
 Stickerator is a web application that allows you to create Telegram sticker packs easily. Upload your images, process them, and publish them directly to Telegram as a sticker pack.
